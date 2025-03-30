@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxence292
-- 👀 I’m interested in html/css/javascript/php
+- 👀 I’m interested in html/css/javascript/php/c/c++/python
 - 📫 How to reach me maxence.giorgi@gmail.com
 
 <!---
