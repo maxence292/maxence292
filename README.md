@@ -1,8 +1,61 @@
-- 👋 Hi, I’m @maxence292
-- 👀 I’m interested in html/css/javascript/php/c/c++/python
-- 📫 How to reach me maxence.giorgi@gmail.com
+<div align="center">
 
-<!---
-maxence292/maxence292 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Salut, c'est Maxence ! 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeur+TypeScript+%26+Python;%C3%89tudiant+passionn%C3%A9;J'aime+coder+des+trucs+cools)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 🧐 À propos de moi
+
+Étudiant et développeur passionné, je navigue entre la rigueur du bas niveau et la créativité du Web moderne.
+
+- 💻 **Côté Web :** Je construis mes sites et applications avec **Node.js**, **React** et **Next.js**.
+- ⚙️ **Côté Backend & Logiciel :** Je maîtrise **Python**, **C++**, **C** et **SQL** pour la logique et la gestion de données.
+- 🔭 J'aime explorer de nouvelles technos pour rendre mes projets plus performants.
+
+---
+
+### 🛠 Mon Arsenal Technique
+
+#### Langages
+<div align="center">
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+#### Web & Frameworks
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Mes Stats GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maxence292&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="Maxence's GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxence292&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=fr" alt="Top Langs" />
+
+</div>
+
+---
+
+### 📫 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maxence-giorgi-566165174) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: maxence.giorgi@gmail.com) ```
+
