@@ -48,9 +48,9 @@
 
 <div align="center">
 
-[![Stats de Maxence](https://github-readme-stats.vercel.app/api?username=maxence292&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats de Maxence](https://github-readme-stats.vercel.app/api?username=maxence292&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/maxence292))
 
-[![Langages Top](https://github-readme-stats.vercel.app/api/top-langs/?username=maxence292&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
+[![Langages Top](https://github-readme-stats.vercel.app/api/top-langs/?username=maxence292&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=fr)](https://github.com/maxence292)
 
 </div>
 ---
