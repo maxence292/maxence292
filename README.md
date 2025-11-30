@@ -2,7 +2,7 @@
 
 # Salut, c'est Maxence ! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeur+TypeScript+%26+Python;%C3%89tudiant+passionn%C3%A9;J'aime+coder+des+trucs+cools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Étudiant+en+Maths+%40+EPFL;Développeur+Full+Stack;C%2B%2B+%7C+Python+%7C+React+%26+Next.js)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,19 +10,20 @@
 
 ### 🧐 À propos de moi
 
-Étudiant et développeur passionné, je navigue entre la rigueur du bas niveau et la créativité du Web moderne.
+Étudiant en **Mathématiques à l'EPFL** 🇨🇭, je combine la rigueur de l'analyse mathématique avec la créativité du développement logiciel.
 
-- 💻 **Côté Web :** Je construis mes sites et applications avec **Node.js**, **React** et **Next.js**.
-- ⚙️ **Côté Backend & Logiciel :** Je maîtrise **Python**, **C++**, **C** et **SQL** pour la logique et la gestion de données.
-- 🔭 J'aime explorer de nouvelles technos pour rendre mes projets plus performants.
+- 🎓 **Formation :** Bachelor en Mathématiques à l'École Polytechnique Fédérale de Lausanne.
+- 💻 **Web Stack :** Je développe des applications modernes avec **Node.js**, **React** et **Next.js**.
+- ⚙️ **Backend & Algorithmique :** Je maîtrise **Python**, **C++**, **C** et **SQL** pour la performance et le traitement de données.
 
 ---
 
 ### 🛠 Mon Arsenal Technique
 
-#### Langages
+#### Langages & Mathématiques
 <div align="center">
 
+![EPFL](https://img.shields.io/badge/EPFL-Mathématiques-FF0000?style=for-the-badge&logo=epfl&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -49,7 +50,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=maxence292&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="Maxence's GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxence292&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=fr" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxence292&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=fr" alt="Top Langs" />
 
 </div>
 
@@ -57,5 +58,5 @@
 
 ### 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maxence-giorgi-566165174) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: maxence.giorgi@gmail.com) ```
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maxence-giorgi-566165174)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxence.giorgi@gmail.com)
