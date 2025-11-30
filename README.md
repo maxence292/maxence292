@@ -48,12 +48,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maxence292&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="Maxence's GitHub stats" />
+[![Stats de Maxence](https://github-readme-stats.vercel.app/api?username=maxence292&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxence292&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=fr" alt="Top Langs" />
+[![Langages Top](https://github-readme-stats.vercel.app/api/top-langs/?username=maxence292&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
 ---
 
 ### 📫 Me contacter
